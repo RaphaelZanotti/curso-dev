@@ -1,0 +1,31 @@
+body {
+    background: #eeeeee
+}
+
+p {
+    color: #252525;
+}
+
+ul {
+    color: #252525;
+}
+
+h1 {
+    color: #000000;
+}
+
+h2 {
+    color: #ccad00;
+}
+
+h3{
+    color: #ccad00;
+}
+
+.foto {
+    border: 2px groove #FFFFFF; /* Essa linha de comando simplificada se chama 'shorthand' */
+    border-radius: 50%;
+    /*border-width: 2px;
+    border-style: inset;
+    border-color: black; */
+}

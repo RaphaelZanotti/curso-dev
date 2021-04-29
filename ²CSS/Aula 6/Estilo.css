@@ -1,0 +1,43 @@
+body {
+    background-image: url(fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr{
+    color: #000000;
+}
+p {
+    color: #252525;
+}
+
+ul {
+    color: #252525;
+}
+
+h1 {
+    color: #000000;
+}
+
+h2 {
+    color: #ccad00;
+}
+
+h3{
+    color: #ccad00;
+}
+
+.foto {
+    width: 180px;
+    /*border-width: 2px;
+    border-style: inset;
+    border-color: black; */
+    border: 2px solid #000000; /* Essa linha de comando simplificada se chama 'shorthand' */
+    border-radius: 50%;
+    /* margin-top: 35px ;
+    margin-bottom: 30px;
+    margin-left: 40%; */
+    margin-left: 40%;
+    margin-top: 20px;
+    padding: 3px;    
+}

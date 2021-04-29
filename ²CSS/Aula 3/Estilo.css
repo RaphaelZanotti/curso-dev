@@ -1,0 +1,29 @@
+body {
+    background: #eeeeee;
+    background-image: url(linhas.png);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: #252525;
+}
+
+ul {
+    color: #252525;
+}
+
+h1 {
+    color: #000000;
+}
+
+h2 {
+    color: #0d358b;
+}
+
+h3{
+    color: #3f3f3f;
+}
